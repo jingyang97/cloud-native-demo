@@ -25,4 +25,4 @@
 * `infrastructure`: this repository will store your cloud-native infrastructures and network structures
 * `faas`: this repository will store your configuration of lambda serverless compute, also you can use curl command to trigger a deployment of lambda functions
 
-## 3. To Be Continued
+## 3. To Be Continued...
